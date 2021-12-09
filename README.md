@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm abekoh 👋😝
 
-<!--
-**abekoh/abekoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Works
+- [MICIN, Inc.](https://micin.jp/) (2021-)
+- [Yahoo! Japan Corp.](https://about.yahoo.co.jp/en/info/company/) (2018-2021)
 
-Here are some ideas to get you started:
+#### Likes
+- Java
+- Go
+- TypeScript
+- Spring Framework
+- React.js
+- Domain Driven Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Links
+- [Blog](https://blog.abekoh.dev/) (in Japanese)
+- [Twitter](https://twitter.com/abekoh_bcky)
+- [LinkedIn](https://www.linkedin.com/in/kotaro-abe-328046132/)
