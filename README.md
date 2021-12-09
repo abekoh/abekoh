@@ -15,4 +15,3 @@
 #### Links
 - [Blog](https://blog.abekoh.dev/) (in Japanese)
 - [Twitter](https://twitter.com/abekoh_bcky)
-- [LinkedIn](https://www.linkedin.com/in/kotaro-abe-328046132/)
