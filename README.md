@@ -2,7 +2,7 @@
 
 #### Works
 - [MICIN, Inc.](https://micin.jp/) (2021-)
-- [Yahoo! Japan Corp.](https://about.yahoo.co.jp/en/info/company/) (2018-2021)
+- [Yahoo! Japan Corp.](https://about.yahoo.co.jp/en/info/) (2018-2021)
 
 #### Likes
 - Java
