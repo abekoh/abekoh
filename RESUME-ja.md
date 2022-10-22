@@ -1,5 +1,21 @@
 ## 基本情報
 
+名前: 阿部 耕太郎 (Kotaro Abe)
+
+居住地: 東京都
+
+| サービス     | リンク                                          |
+| ------------ | ----------------------------------------------- |
+| Twitter      | [@abekoh_bcky](https://twitter.com/abekoh_bcky) |
+| GitHub       | [abekoh](https://github.com/abekoh)             |
+| Blog         | [abekoh's tech note](https://blog.abekoh.dev/)  |
+| LinkedIn     | [abekoh](https://www.linkedin.com/in/abekoh)    |
+| Qiita        | [abekoh](https://qiita.com/abekoh)              |
+| Zenn         | [abekoh](https://speakerdeck.com/abekoh)        |
+| Speaker Deck | [abekoh](https://speakerdeck.com/abekoh)        |
+
+※Twitter の DM が一番連絡とりやすいです
+
 ## 職務経歴
 
 ## 学歴
