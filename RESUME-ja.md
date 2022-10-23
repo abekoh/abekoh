@@ -76,6 +76,7 @@ Pickup:
 - [fish,tmux,neovim,ghq,pecoで開発スペース構築を快適にする - abekoh's tech note](https://blog.abekoh.dev/posts/prj-command)
 - [Next.js+Vercel+microCMSでブログをリニューアルしました - abekoh's tech note](https://blog.abekoh.dev/posts/build-blog-with-nextjs)
 - [ニコニコ実況の過去ログをアニメの放送情報から検索して見れるサービスをつくった - abekoh's tech note](https://blog.abekoh.dev/posts/nicojk-anime-archive-viewer)
+- [Ubuntu 22.04, Mirakurun, EPGStationでテレビ録画サーバーを構築する - abekoh's tech note](https://blog.abekoh.dev/posts/ubuntu2204-mirakurun-epgstation)
 
 ### OSS
 
@@ -112,11 +113,12 @@ Pickup:
 - インフラ
   - AWS, GCP, オンプレの経験あり
   - 特に好きなのはGCP
-  - 現職ではすべてTerraformを用いて構成管理している
+  - Terraform使って管理するのが得意
 - TDDを用いてテスト駆動で書くのが好き
   - モックを積極的に使っていくロンドン学派([参考](https://twitter.com/t_wada/status/1448864195357777928))
 - パフォーマンスチューニングは徹底的に計測をして行っていく
 - フロントだとReactが好み
+- 発生した問題の深堀りのため、ライブラリの元コードやRFCなどまで追っかけるのが得意
 
 ### 技術以外
 
@@ -127,10 +129,28 @@ Pickup:
 
 ### 資格
 
+- Google Cloud Certified Professional Cloud Architect (2021/07)
+- 応用情報技術者試験 (2017/11)
+
 ### 語学力
+
+- 日本語ネイティブ
+- 英語は読み書き可能レベル
 
 ## 読書
 
+- 技術書漁るのが好きで、割とよく読みます。
+- 読んできた本一覧、主観的レビュー付: [abekoh's 技術書録](https://neon-beam-210.notion.site/c746d3d6b49745a3a73b45f62105e836?v=495cb3b859fc4439946ba6564b976c5d)
+
 ## 作業環境
 
+- OSはWindows,Mac,Linuxどれでも。WindowsだとWSL2を活用したい
+- エディタはJetBrains系、NeoVimが好き
+- フルリモートは苦手。適度に対面でコミュニケーション取りながらチーム構築していくのが好き
+
 ## やりたい・目指したいこと
+
+最近だと2つ
+
+- プロダクト中心の組織で、サーバサイド領域の第一人者としてプロダクトを成長させること
+- 技術基盤チームなどで、よりコアな技術の探求・ライブラリ開発などを行うこと
