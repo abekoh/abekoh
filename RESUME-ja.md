@@ -2,9 +2,7 @@
 
 名前: 阿部 耕太郎 (Kotaro Abe)
 
-出身地: 福岡県
-
-居住地: 東京都
+所在地: 東京都
 
 | サービス     | リンク                                          |
 | ------------ | ----------------------------------------------- |
@@ -13,8 +11,9 @@
 | Blog         | [abekoh's tech note](https://blog.abekoh.dev/)  |
 | LinkedIn     | [abekoh](https://www.linkedin.com/in/abekoh)    |
 | Qiita        | [abekoh](https://qiita.com/abekoh)              |
-| Zenn         | [abekoh](https://zenn.dev/abekoh)        |
+| Zenn         | [abekoh](https://zenn.dev/abekoh)               |
 | Speaker Deck | [abekoh](https://speakerdeck.com/abekoh)        |
+| LeetCode     | [abekoh](https://leetcode.com/abekoh)           |
 
 ※TwitterのDMが一番連絡とりやすいです
 
@@ -40,7 +39,7 @@
   - 主な技術トピック: Java, Spring Boot, Oracle Database, Kubernetes, GCP, etc...
   - デイリー数百万リクエストされる広告の審査を、分散サービスを構築して処理
   - 秒間数万リクエストを数ミリ秒以内に返却するシステムの構築
-    - [ヤフー、Yahoo!広告のさらなる安全性向上に向け、 アドフラウド排除とブランドセーフティ制御を強化する リアルタイム不正解析機能を導入 - ニュース - ヤフー株式会社](https://about.yahoo.co.jp/pr/release/2020/10/15m/)
+    - こちらに関連: [ヤフー、Yahoo!広告のさらなる安全性向上に向け、 アドフラウド排除とブランドセーフティ制御を強化する リアルタイム不正解析機能を導入 - ニュース - ヤフー株式会社](https://about.yahoo.co.jp/pr/release/2020/10/15m/)
   - 社内オンプレとGCPとの連携
   - OJT/新卒メンバー育成(OJT6名、新卒4名)
 
