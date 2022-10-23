@@ -23,7 +23,7 @@
 
 - DCT事業のリードエンジニア
   - 治験の業務支援サービスの開発・運用・保守
-  - 主な技術トピック: Go, TypeScript, React.js, PostgreSQL, AWS, Terraform, DocuSign, etc...
+  - Go, TypeScript, React.js, PostgreSQL, AWS, Terraform, DocuSign, etc...
   - PdM1名, エンジニア3-5名, QA2-3名, etc (業務委託含む)
   - 全体の設計・実装方針に責任を持って開発を遂行
   - 開発フローの整備、スクラムの導入
@@ -36,7 +36,7 @@
 
 - 広告審査システムのサーバサイドエンジニア
   - 広告審査システムの開発・運用・保守
-  - 主な技術トピック: Java, Spring Boot, Oracle Database, Kubernetes, GCP, etc...
+  - Java, Spring Boot, Oracle Database, Kubernetes, GCP, etc...
   - デイリー数百万リクエストされる広告の審査を、分散サービスを構築して処理
   - 秒間数万リクエストを数ミリ秒以内に返却するシステムの構築
     - こちらに関連: [ヤフー、Yahoo!広告のさらなる安全性向上に向け、 アドフラウド排除とブランドセーフティ制御を強化する リアルタイム不正解析機能を導入 - ニュース - ヤフー株式会社](https://about.yahoo.co.jp/pr/release/2020/10/15m/)
