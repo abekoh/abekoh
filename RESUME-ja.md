@@ -1,6 +1,6 @@
 ## 基本情報
 
-名前: 阿部 耕太郎 (Kotaro Abe)
+名前: 阿部 耕太郎 (Kotaro Abe, abekoh)
 
 所在地: 東京都
 
