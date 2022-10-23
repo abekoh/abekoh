@@ -24,7 +24,7 @@
 
 - DCT事業のリードエンジニア
   - 治験の業務支援サービスの開発・運用・保守
-  - 主な技術トピック: Go, TypeScript, React.js, PostgreSQL, AWS, DocuSign, etc...
+  - 主な技術トピック: Go, TypeScript, React.js, PostgreSQL, AWS, Terraform, DocuSign, etc...
   - PdM1名, エンジニア3-5名, QA2-3名, etc (業務委託含む)
   - 全体の設計・実装方針に責任を持って開発を遂行
   - 開発フローの整備、スクラムの導入
@@ -63,15 +63,71 @@
 
 ### 記事
 
+Qiita / Zenn / Blog(自前構築)などに時々投稿
+
+Pickup:
+
+- [トランザクションスクリプトなシステムをもとに、Cleanなシステムを構築する - Qiita](https://qiita.com/abekoh/items/f8d392ac4835efa82b28)
+- [Spring Cloud Stream, Reactorを使ってノンブロッキングなストリーム処理を実装する - Zenn](https://zenn.dev/abekoh/articles/4b898e6bc744fa)
+- [ドメイン駆動設計からオブジェクト指向、そしてアジャイル開発まで。関連書籍練り歩きのススメ - Zenn](https://zenn.dev/abekoh/articles/90a9bb8698b091) ... ♡200 over
+- [ZIP圧縮したファイルの更新日時にタイムゾーンが考慮されない問題について調べてみた - Zenn](https://zenn.dev/abekoh/articles/3222ffca0f9ca5)
+- [Javaでパフォーマンスを意識した開発を行っていく上での心得 - abekoh's tech note](https://blog.abekoh.dev/posts/starting-java-performance-tuning)
+- [Spring Boot+Kubernetesでサービスイン前にウォームアップ処理を行う - abekoh's tech note](https://blog.abekoh.dev/posts/warmup-java-with-spring-and-k8s)
+- [fish,tmux,neovim,ghq,pecoで開発スペース構築を快適にする - abekoh's tech note](https://blog.abekoh.dev/posts/prj-command)
+- [Next.js+Vercel+microCMSでブログをリニューアルしました - abekoh's tech note](https://blog.abekoh.dev/posts/build-blog-with-nextjs)
+- [ニコニコ実況の過去ログをアニメの放送情報から検索して見れるサービスをつくった - abekoh's tech note](https://blog.abekoh.dev/posts/nicojk-anime-archive-viewer)
+
 ### OSS
+
+自前のもの:
+
+- [abekoh/commit-plantuml-action](https://github.com/abekoh/commit-plantuml-action) ... PlantUMLの画像生成できるGitHub Actionsテンプレート、PR上で差分チェックもできる
+- [abekoh/snipslack.vim](https://github.com/abekoh/snipslack.vim) ... Slackにスニペット投稿するためのVimプラグイン
+- [abekoh/wordle\_helper](https://github.com/abekoh/wordle_helper) ... [Wordle](https://www.nytimes.com/games/wordle/index.html)を解くためのヘルパーCLI、Rust製
+- [abekoh/nes\_emulator](https://github.com/abekoh/nes_emulator) ... (WIP)Rust製ファミコンエミュレータ
+
+貢献したもの。ほぼ軽微なもの:
+- [Add option gcloud.project\_aliases by abekoh · Pull Request #3599 · starship/starship](https://github.com/starship/starship/pull/3599)
+- [Replace \`tokio::time::delay\_for\` with \`tokio::time::sleep\` by abekoh · Pull Request #273 · actix/actix-website](https://github.com/actix/actix-website/pull/273)
+- [Fix dependencies and add mut by abekoh · Pull Request #80 · oreilly-japan/conc\_ytakano](https://github.com/oreilly-japan/conc_ytakano/pull/80)
 
 ## スキル
 
 ### 技術
 
+- OOP,DDDなどの要素を取り入れたドメインモデリングが得意
+- 分散サービス構築が好き
+  - 経験としてはモジュラモノリスまで、マイクロサービスは業務では未経験
+- 静的型付け言語中心に組み立てたい
+  - Java, Goが業務経験として長い
+  - Kotlin, TypeScript, Rustあたりも興味あり
+  - 小規模・分析用・スクリプト等であればその限りでない。ちょっとしたスクリプトはPythonでよく書く
+- Java
+  - Spring Bootを使った実務経験3年
+  - ドメインモデリングを中心にした設計と合わせるには一番手慣れている
+  - IntelliJ IDEAと組み合わせて、TDDで素早くアプリケーションを構築するのが得意
+- Go
+  - 業務で1年、趣味含めると3年ほど
+  - Goらしいコードの書き方がようやくわかってきたところ
+- インフラ
+  - AWS, GCP, オンプレの経験あり
+  - 特に好きなのはGCP
+  - 現職ではすべてTerraformを用いて構成管理している
+- TDDを用いてテスト駆動で書くのが好き
+  - モックを積極的に使っていくロンドン学派([参考](https://twitter.com/t_wada/status/1448864195357777928))
+- パフォーマンスチューニングは徹底的に計測をして行っていく
+- フロントだとReactが好み
+
+### 技術以外
+
+- ドキュメンテーションが得意
+  - 図表を使って直感に訴えかけるのが好き
+- 1on1を通じてチームメンバーとの関係を構築していくタイプ
+- 部署横断的な取り組みのファシリテーションも積極的に行うタイプ
+
 ### 資格
 
-## 語学力
+### 語学力
 
 ## 読書
 
