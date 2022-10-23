@@ -2,6 +2,8 @@
 
 名前: 阿部 耕太郎 (Kotaro Abe)
 
+出身地: 福岡県
+
 居住地: 東京都
 
 | サービス     | リンク                                          |
@@ -46,12 +48,16 @@
 
 ### 2016/04-2018/03 九州大学大学院システム情報科学府情報知能工学専攻
 
-- 修論テーマは"Generative Adversarial Networks(GAN)を用いたフォント生成に関する研究"
+- [ヒューマンインタフェース研究室(内田研究室)](https://human.ait.kyushu-u.ac.jp/)所属
+- 修論テーマ: "Generative Adversarial Networks(GAN)を用いたフォント生成に関する研究"
+- 研究関連のコード
+  - [uchidalab/fontdesign\_gan](https://github.com/uchidalab/fontdesign_gan): 修論の成果物
+  - [abekoh/adversarial\_character](https://github.com/abekoh/adversarial_character): CNNを騙す文字画像を遺伝的アルゴリズムで作成
 
 ### 2012/04-2016/03 九州大学工学部電気情報工学科
 
-- 学部4年よりヒューマンインタフェース研究室(内田研究室)に所属
-- 画像系を中心にパターン認識、機械学習について研究
+- 学部2年以降は情報工学を専攻
+- 学部4年より上記の研究室に所属
 
 ## 社外活動
 
