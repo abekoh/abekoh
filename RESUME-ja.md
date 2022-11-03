@@ -1,10 +1,8 @@
 ## 基本情報
 
-名前: 阿部 耕太郎 (Kotaro Abe)
+名前: 阿部 耕太郎 (Kotaro Abe, abekoh)
 
-出身地: 福岡県
-
-居住地: 東京都
+所在地: 東京都
 
 | サービス     | リンク                                          |
 | ------------ | ----------------------------------------------- |
@@ -13,8 +11,9 @@
 | Blog         | [abekoh's tech note](https://blog.abekoh.dev/)  |
 | LinkedIn     | [abekoh](https://www.linkedin.com/in/abekoh)    |
 | Qiita        | [abekoh](https://qiita.com/abekoh)              |
-| Zenn         | [abekoh](https://zenn.dev/abekoh)        |
+| Zenn         | [abekoh](https://zenn.dev/abekoh)               |
 | Speaker Deck | [abekoh](https://speakerdeck.com/abekoh)        |
+| LeetCode     | [abekoh](https://leetcode.com/abekoh)           |
 
 ※TwitterのDMが一番連絡とりやすいです
 
@@ -24,7 +23,7 @@
 
 - DCT事業のリードエンジニア
   - 治験の業務支援サービスの開発・運用・保守
-  - 主な技術トピック: Go, TypeScript, React.js, PostgreSQL, AWS, Terraform, DocuSign, etc...
+  - Go, TypeScript, React.js, PostgreSQL, AWS, Terraform, DocuSign, etc...
   - PdM1名, エンジニア3-5名, QA2-3名, etc (業務委託含む)
   - 全体の設計・実装方針に責任を持って開発を遂行
   - 開発フローの整備、スクラムの導入
@@ -38,10 +37,10 @@
 
 - 広告審査システムのサーバサイドエンジニア
   - 広告審査システムの開発・運用・保守
-  - 主な技術トピック: Java, Spring Boot, Oracle Database, Kubernetes, GCP, etc...
+  - Java, Spring Boot, Oracle Database, Kubernetes, GCP, etc...
   - デイリー数百万リクエストされる広告の審査を、分散サービスを構築して処理
   - 秒間数万リクエストを数ミリ秒以内に返却するシステムの構築
-    - [ヤフー、Yahoo!広告のさらなる安全性向上に向け、 アドフラウド排除とブランドセーフティ制御を強化する リアルタイム不正解析機能を導入 - ニュース - ヤフー株式会社](https://about.yahoo.co.jp/pr/release/2020/10/15m/)
+    - こちらに関連: [ヤフー、Yahoo!広告のさらなる安全性向上に向け、 アドフラウド排除とブランドセーフティ制御を強化する リアルタイム不正解析機能を導入 - ニュース - ヤフー株式会社](https://about.yahoo.co.jp/pr/release/2020/10/15m/)
   - 社内オンプレとGCPとの連携
   - OJT/新卒メンバー育成(OJT6名、新卒4名)
 
@@ -75,8 +74,6 @@ Pickup:
 - [Javaでパフォーマンスを意識した開発を行っていく上での心得 - abekoh's tech note](https://blog.abekoh.dev/posts/starting-java-performance-tuning)
 - [Spring Boot+Kubernetesでサービスイン前にウォームアップ処理を行う - abekoh's tech note](https://blog.abekoh.dev/posts/warmup-java-with-spring-and-k8s)
 - [fish,tmux,neovim,ghq,pecoで開発スペース構築を快適にする - abekoh's tech note](https://blog.abekoh.dev/posts/prj-command)
-- [Next.js+Vercel+microCMSでブログをリニューアルしました - abekoh's tech note](https://blog.abekoh.dev/posts/build-blog-with-nextjs)
-- [ニコニコ実況の過去ログをアニメの放送情報から検索して見れるサービスをつくった - abekoh's tech note](https://blog.abekoh.dev/posts/nicojk-anime-archive-viewer)
 - [Ubuntu 22.04, Mirakurun, EPGStationでテレビ録画サーバーを構築する - abekoh's tech note](https://blog.abekoh.dev/posts/ubuntu2204-mirakurun-epgstation)
 
 ### OSS
@@ -87,11 +84,21 @@ Pickup:
 - [abekoh/snipslack.vim](https://github.com/abekoh/snipslack.vim) ... Slackにスニペット投稿するためのVimプラグイン
 - [abekoh/wordle\_helper](https://github.com/abekoh/wordle_helper) ... [Wordle](https://www.nytimes.com/games/wordle/index.html)を解くためのヘルパーCLI、Rust製
 - [abekoh/nes\_emulator](https://github.com/abekoh/nes_emulator) ... (WIP)Rust製ファミコンエミュレータ
+- [abekoh/minecraft-server](https://github.com/abekoh/minecraft-server) ... GCP, TerraformでMinecraftサーバを構築
 
-貢献したもの。ほぼ軽微なもの:
+貢献したもの(ほぼ軽微):
 - [Add option gcloud.project\_aliases by abekoh · Pull Request #3599 · starship/starship](https://github.com/starship/starship/pull/3599)
 - [Replace \`tokio::time::delay\_for\` with \`tokio::time::sleep\` by abekoh · Pull Request #273 · actix/actix-website](https://github.com/actix/actix-website/pull/273)
 - [Fix dependencies and add mut by abekoh · Pull Request #80 · oreilly-japan/conc\_ytakano](https://github.com/oreilly-japan/conc_ytakano/pull/80)
+
+### サービス
+
+- [abekoh's tech note](https://blog.abekoh.dev/) ... 自前ブログ
+  - TypeScript, Next.js, React.js, MUI, Versel, microCMS
+  - 紹介記事: [Next.js+Vercel+microCMSでブログをリニューアルしました - abekoh's tech note](https://blog.abekoh.dev/posts/build-blog-with-nextjs)
+- [NicoJK Anime Archive Viewer](https://nicojk.abekoh.dev/) ... アニメ特化のニコニコ実況の過去ログ再生ツール
+  - Go, TypeScript, Next.js, React.js, AWS(Lambda, API Gateway, S3, DynamoDB, EC2, Amplify)
+  - 紹介記事: [ニコニコ実況の過去ログをアニメの放送情報から検索して見れるサービスをつくった - abekoh's tech note](https://blog.abekoh.dev/posts/nicojk-anime-archive-viewer)
 
 ## スキル
 
