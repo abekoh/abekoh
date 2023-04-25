@@ -2,15 +2,14 @@
 [Resume](./RESUME-ja.md) (in Japanese)
 
 #### Works
-- [MICIN, Inc.](https://micin.jp/) (2021-)
+- [MICIN, Inc.](https://micin.jp/en) (2021-)
 - [Yahoo! Japan Corp.](https://about.yahoo.co.jp/en/info/) (2018-2021)
 
 #### Likes
-- Java
 - Go
 - TypeScript
 - Rust
-- Spring Framework
+- Java
 - React.js
 
 #### Links
