@@ -4,18 +4,7 @@
 
 所在地: 東京都
 
-| サービス     | リンク                                          |
-| ------------ | ----------------------------------------------- |
-| Twitter      | [@abekoh_bcky](https://twitter.com/abekoh_bcky) |
-| GitHub       | [abekoh](https://github.com/abekoh)             |
-| Blog         | [abekoh's tech note](https://blog.abekoh.dev/)  |
-| LinkedIn     | [abekoh](https://www.linkedin.com/in/abekoh)    |
-| Qiita        | [abekoh](https://qiita.com/abekoh)              |
-| Zenn         | [abekoh](https://zenn.dev/abekoh)               |
-| Speaker Deck | [abekoh](https://speakerdeck.com/abekoh)        |
-| LeetCode     | [abekoh](https://leetcode.com/abekoh)           |
-
-※TwitterのDMが一番連絡とりやすいです
+SNS等へのリンク: [abekoh.dev](https://abekoh.dev)
 
 ## 職務経歴
 
@@ -67,14 +56,14 @@ Qiita / Zenn / Blog(自前構築)などに時々投稿
 
 Pickup:
 
-- [トランザクションスクリプトなシステムをもとに、Cleanなシステムを構築する - Qiita](https://qiita.com/abekoh/items/f8d392ac4835efa82b28)
 - [Spring Cloud Stream, Reactorを使ってノンブロッキングなストリーム処理を実装する - Zenn](https://zenn.dev/abekoh/articles/4b898e6bc744fa)
-- [ドメイン駆動設計からオブジェクト指向、そしてアジャイル開発まで。関連書籍練り歩きのススメ - Zenn](https://zenn.dev/abekoh/articles/90a9bb8698b091) ... ♡200 over
+- [ドメイン駆動設計からオブジェクト指向、そしてアジャイル開発まで。関連書籍練り歩きのススメ - Zenn](https://zenn.dev/abekoh/articles/90a9bb8698b091)
 - [ZIP圧縮したファイルの更新日時にタイムゾーンが考慮されない問題について調べてみた - Zenn](https://zenn.dev/abekoh/articles/3222ffca0f9ca5)
 - [Javaでパフォーマンスを意識した開発を行っていく上での心得 - abekoh's tech note](https://blog.abekoh.dev/posts/starting-java-performance-tuning)
 - [Spring Boot+Kubernetesでサービスイン前にウォームアップ処理を行う - abekoh's tech note](https://blog.abekoh.dev/posts/warmup-java-with-spring-and-k8s)
 - [fish,tmux,neovim,ghq,pecoで開発スペース構築を快適にする - abekoh's tech note](https://blog.abekoh.dev/posts/prj-command)
-- [Ubuntu 22.04, Mirakurun, EPGStationでテレビ録画サーバーを構築する - abekoh's tech note](https://blog.abekoh.dev/posts/ubuntu2204-mirakurun-epgstation)
+- [業務アプリケーション開発にGoを採用する理由 - Zenn](https://zenn.dev/micin/articles/c5d12be524c675)
+- [moqを使ったGoのテスト](https://zenn.dev/abekoh/articles/21acde07e1f555)
 
 ### OSS
 
@@ -86,16 +75,11 @@ Pickup:
 - [abekoh/nes\_emulator](https://github.com/abekoh/nes_emulator) ... (WIP)Rust製ファミコンエミュレータ
 - [abekoh/minecraft-server](https://github.com/abekoh/minecraft-server) ... GCP, TerraformでMinecraftサーバを構築
 
-貢献したもの(ほぼ軽微):
-- [Add option gcloud.project\_aliases by abekoh · Pull Request #3599 · starship/starship](https://github.com/starship/starship/pull/3599)
-- [Replace \`tokio::time::delay\_for\` with \`tokio::time::sleep\` by abekoh · Pull Request #273 · actix/actix-website](https://github.com/actix/actix-website/pull/273)
-- [Fix dependencies and add mut by abekoh · Pull Request #80 · oreilly-japan/conc\_ytakano](https://github.com/oreilly-japan/conc_ytakano/pull/80)
-
 ### サービス
 
 - [abekoh's tech note](https://blog.abekoh.dev/) ... 自前ブログ
   - TypeScript, Next.js, React.js, MUI, Versel, microCMS
-  - 紹介記事: [Next.js+Vercel+microCMSでブログをリニューアルしました - abekoh's tech note](https://blog.abekoh.dev/posts/build-blog-with-nextjs)
+  - 紹介記事: [Astro, Tailwind CSS, Cloudflare Pagesでブログリニューアル - abekoh's tech note](https://blog.abekoh.dev/posts/blog-v3)
 - [NicoJK Anime Archive Viewer](https://nicojk.abekoh.dev/) ... アニメ特化のニコニコ実況の過去ログ再生ツール
   - Go, TypeScript, Next.js, React.js, AWS(Lambda, API Gateway, S3, DynamoDB, EC2, Amplify)
   - 紹介記事: [ニコニコ実況の過去ログをアニメの放送情報から検索して見れるサービスをつくった - abekoh's tech note](https://blog.abekoh.dev/posts/nicojk-anime-archive-viewer)
@@ -104,9 +88,6 @@ Pickup:
 
 ### 技術
 
-- OOP,DDDなどの要素を取り入れたドメインモデリングが得意
-- 分散サービス構築が好き
-  - 経験としてはモジュラモノリスまで、マイクロサービスは業務では未経験
 - 静的型付け言語中心に組み立てたい
   - Java, Goが業務経験として長い
   - Kotlin, TypeScript, Rustあたりも興味あり
@@ -116,17 +97,14 @@ Pickup:
   - ドメインモデリングを中心にした設計が一番手慣れている
   - IntelliJ IDEAと組み合わせて、TDDで素早くアプリケーションを構築するのが得意
 - Go
-  - 業務で1年、趣味含めると3年ほど
+  - 業務で2年、趣味含めると4年ほど
   - Goらしいコードの書き方がようやくわかってきたところ
 - インフラ
   - AWS, GCP, オンプレの経験あり
   - 特に好きなのはGCP
   - Terraform使って管理していた経験あり
-- TDDを用いてテスト駆動で書くのが好き
-  - モックを積極的に使っていくロンドン学派([参考](https://twitter.com/t_wada/status/1448864195357777928))
-- パフォーマンスチューニングは徹底的に計測をして行っていく
-- フロントだとReactが好み
-- 発生した問題の深堀りのため、ライブラリの元コードやRFCなどまで追っかけるのが得意
+- フロント
+  - TypeScript, Reactが好み
 
 ### 技術以外
 
@@ -134,16 +112,6 @@ Pickup:
   - 図表を使って直感に訴えかけるのが好き
 - 1on1を通じてチームメンバーとの関係を構築していくタイプ
 - 部署横断的な取り組みのファシリテーションも積極的に行うタイプ
-
-### 資格
-
-- Google Cloud Certified Professional Cloud Architect (2021/07)
-- 応用情報技術者試験 (2017/11)
-
-### 語学力
-
-- 日本語ネイティブ
-- 英語は読み書き可能レベル
 
 ## 読書
 
@@ -155,10 +123,3 @@ Pickup:
 - OSはWindows,Mac,Linuxどれでも。WindowsだとWSL2を活用したい
 - エディタはJetBrains系、NeoVimが好き
 - フルリモートは苦手。適度に対面でコミュニケーション取りながらチーム構築していくのが好き
-
-## やりたい・目指したいこと
-
-最近だと2つ
-
-- プロダクト中心の組織で、サーバサイド領域の第一人者としてプロダクトを成長させること
-- 技術基盤チームなどで、よりコアな技術の探求・ライブラリ開発などを行うこと
