@@ -63,7 +63,7 @@ Pickup:
 - [Spring Boot+Kubernetesでサービスイン前にウォームアップ処理を行う - abekoh's tech note](https://blog.abekoh.dev/posts/warmup-java-with-spring-and-k8s)
 - [fish,tmux,neovim,ghq,pecoで開発スペース構築を快適にする - abekoh's tech note](https://blog.abekoh.dev/posts/prj-command)
 - [業務アプリケーション開発にGoを採用する理由 - Zenn](https://zenn.dev/micin/articles/c5d12be524c675)
-- [moqを使ったGoのテスト](https://zenn.dev/abekoh/articles/21acde07e1f555)
+- [moqを使ったGoのテスト - Zenn](https://zenn.dev/abekoh/articles/21acde07e1f555)
 
 ### OSS
 
@@ -78,7 +78,7 @@ Pickup:
 ### サービス
 
 - [abekoh's tech note](https://blog.abekoh.dev/) ... 自前ブログ
-  - TypeScript, Next.js, React.js, MUI, Versel, microCMS
+  - Astro, Tailwind CSS, Cloudflare Pages
   - 紹介記事: [Astro, Tailwind CSS, Cloudflare Pagesでブログリニューアル - abekoh's tech note](https://blog.abekoh.dev/posts/blog-v3)
 - [NicoJK Anime Archive Viewer](https://nicojk.abekoh.dev/) ... アニメ特化のニコニコ実況の過去ログ再生ツール
   - Go, TypeScript, Next.js, React.js, AWS(Lambda, API Gateway, S3, DynamoDB, EC2, Amplify)
