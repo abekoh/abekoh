@@ -6,13 +6,12 @@
 - [Yahoo! Japan Corp.](https://about.yahoo.co.jp/en/info/) (2018-2021)
 
 #### Likes
+
 - Go
 - TypeScript
 - Rust
-- Java
-- React.js
+- GraphQL
 
 #### Links
-- [Blog](https://blog.abekoh.dev/) (in Japanese)
-- [Twitter](https://twitter.com/abekoh_bcky)
-- [LinkedIn](https://www.linkedin.com/in/kotaro-abe-328046132/)
+
+→ [abekoh.dev](https://abekoh.dev)
