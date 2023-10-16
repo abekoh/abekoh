@@ -13,14 +13,16 @@ SNS等へのリンク: [abekoh.dev](https://abekoh.dev)
 - DCT事業のリードエンジニア
   - 治験の業務支援サービスの開発・運用・保守
   - Go, TypeScript, React.js, PostgreSQL, AWS, Terraform, DocuSign, etc...
-  - PdM1名, エンジニア3-5名, QA2-3名, etc (業務委託含む)
-  - 全体の設計・実装方針に責任を持って開発を遂行
+  - PdM2名, エンジニア3-5名, QA2-3名, etc (インターン、業務委託含む)
+  - 全体の設計・実装方針に責任を持つ
   - 開発フローの整備、スクラムの導入
   - 開発メンバーとの1on1、課題の吸い上げ・知識共有
+  - ドメインの用語を揃えつつメンバーとすり合わせながら仕様策定
 - 社内のエンジニア知識共有の取り組み
   - LT会の主催。月1回、3-4名が10分程度発表
-  - 自分も3回ほど発表済
-  - [事業部横断でナレッジ共有！「LTゆる会」開催してみた｜MICIN公式note「MICINの邁進Days」](https://note.micin.jp/n/nb1c5df4aa9a4)
+    - [事業部横断でナレッジ共有！「LTゆる会」開催してみた｜MICIN公式note「MICINの邁進Days」](https://note.micin.jp/n/nb1c5df4aa9a4)
+  - Advent Calendarの運営
+    - [MICIN Advent Calendar 2022 を終えて | MICIN Developers](https://medium.com/micin-developers/remember-micin-advent-calendar-2022-acc9557f9089)
 
 ### 2018/04-2021/10 ヤフー株式会社
 
@@ -52,7 +54,7 @@ SNS等へのリンク: [abekoh.dev](https://abekoh.dev)
 
 ### 記事
 
-Qiita / Zenn / Blog(自前構築)などに時々投稿
+Qiita / Zenn / Blog などに時々投稿
 
 Pickup:
 
@@ -61,9 +63,9 @@ Pickup:
 - [ZIP圧縮したファイルの更新日時にタイムゾーンが考慮されない問題について調べてみた - Zenn](https://zenn.dev/abekoh/articles/3222ffca0f9ca5)
 - [Javaでパフォーマンスを意識した開発を行っていく上での心得 - abekoh's tech note](https://blog.abekoh.dev/posts/starting-java-performance-tuning)
 - [Spring Boot+Kubernetesでサービスイン前にウォームアップ処理を行う - abekoh's tech note](https://blog.abekoh.dev/posts/warmup-java-with-spring-and-k8s)
-- [fish,tmux,neovim,ghq,pecoで開発スペース構築を快適にする - abekoh's tech note](https://blog.abekoh.dev/posts/prj-command)
 - [業務アプリケーション開発にGoを採用する理由 - Zenn](https://zenn.dev/micin/articles/c5d12be524c675)
 - [moqを使ったGoのテスト - Zenn](https://zenn.dev/abekoh/articles/21acde07e1f555)
+- [シェル環境2023 - abekoh's tech note](https://blog.abekoh.dev/posts/shell-2023)
 
 ### OSS
 
@@ -74,13 +76,16 @@ Pickup:
 - [abekoh/wordle\_helper](https://github.com/abekoh/wordle_helper) ... [Wordle](https://www.nytimes.com/games/wordle/index.html)を解くためのヘルパーCLI、Rust製
 - [abekoh/nes\_emulator](https://github.com/abekoh/nes_emulator) ... (WIP)Rust製ファミコンエミュレータ
 - [abekoh/minecraft-server](https://github.com/abekoh/minecraft-server) ... GCP, TerraformでMinecraftサーバを構築
+- [abekoh/radiko-archiver](https://github.com/abekoh/radiko-archiver) ... radikoの番組自動録画
+
+他、利用しているOSSにIssue投げたりPR投げたりもたまにやります。
 
 ### サービス
 
-- [abekoh's tech note](https://blog.abekoh.dev/) ... 自前ブログ
+- [abekoh's tech note](https://blog.abekoh.dev/) ... 自分で構築したブログ
   - Astro, Tailwind CSS, Cloudflare Pages
   - 紹介記事: [Astro, Tailwind CSS, Cloudflare Pagesでブログリニューアル - abekoh's tech note](https://blog.abekoh.dev/posts/blog-v3)
-- [NicoJK Anime Archive Viewer](https://nicojk.abekoh.dev/) ... アニメ特化のニコニコ実況の過去ログ再生ツール
+- (更新停止)NicoJK Anime Archive Viewer ... アニメ特化のニコニコ実況の過去ログ再生ツール
   - Go, TypeScript, Next.js, React.js, AWS(Lambda, API Gateway, S3, DynamoDB, EC2, Amplify)
   - 紹介記事: [ニコニコ実況の過去ログをアニメの放送情報から検索して見れるサービスをつくった - abekoh's tech note](https://blog.abekoh.dev/posts/nicojk-anime-archive-viewer)
 
@@ -89,22 +94,32 @@ Pickup:
 ### 技術
 
 - 静的型付け言語中心に組み立てたい
-  - Java, Goが業務経験として長い
-  - Kotlin, TypeScript, Rustあたりも興味あり
+  - Java, Go, TypeScriptが業務経験として長い
+  - Kotlin, Rustあたりも興味あり
   - 小規模・分析用・スクリプト等であればその限りでない。ちょっとしたスクリプトはPythonでよく書く
 - Java
   - Spring Bootを使った実務経験3年
   - ドメインモデリングを中心にした設計が一番手慣れている
-  - IntelliJ IDEAと組み合わせて、TDDで素早くアプリケーションを構築するのが得意
+  - IntelliJ IDEAと組み合わせて、テストも書きながらで素早くアプリケーションを構築するのが得意
 - Go
   - 業務で2年、趣味含めると4年ほど
-  - Goらしいコードの書き方がようやくわかってきたところ
+  - 最近はかなり慣れて、最新状況のキャッチアップも進んでやるようになった
+- アーキテクチャ・設計観
+  - プロダクトのあるべき姿に向かって、モノリスからマイクロサービスまで順応に選んだ設計がしたい
+  - テストは可能な範囲で書く、テスタビリティの高い設計にしたい
+- データベース
+  - RDBはOracle Database, PostgreSQLの経験が長い
+  - ORMつかわずSQLやそれに近いものを書くスタイルが好き
+  - その他データベース系はRedis, Cassandra, DynamoDB, Firestoreを少々
+- API / RPC
+  - REST API, GraphQL経験あり
+  - いずれにしてもスキーマをフロント・バックエンドで共有して効率化したスタイルをやめるのは厳しい
 - インフラ
   - AWS, GCP, オンプレの経験あり
-  - 特に好きなのはGCP
-  - Terraform使って管理していた経験あり
+  - Terraform, AnsibleなどIaCもよく扱う
 - フロント
-  - TypeScript, Reactが好み
+  - TypeScript, React.js, Next.js, TailwindCSS, ChakraUI, MUIなど経験
+  - 基本的なことは書けるが、ゼロベースで最適なフロント設計をするのは自信少なめ
 
 ### 技術以外
 
@@ -115,11 +130,13 @@ Pickup:
 
 ## 読書
 
-- 技術書漁るのが好きで、割とよく読む
-- 読んできた本一覧、主観的レビュー付: [abekoh's 技術書録](https://neon-beam-210.notion.site/c746d3d6b49745a3a73b45f62105e836?v=495cb3b859fc4439946ba6564b976c5d)
+- 技術書漁るのが好きで、割とよく読む。以下読書録
+  - [今年読んだ本まとめ2022 - abekoh's tech note](https://blog.abekoh.dev/posts/books-2022)
+  - [今年読んだ本まとめ2021 - abekoh's tech note](https://blog.abekoh.dev/posts/books-2021)
 
 ## 作業環境
 
 - OSはWindows,Mac,Linuxどれでも。WindowsだとWSL2を活用したい
 - エディタはJetBrains系、NeoVimが好き
-- フルリモートは苦手。適度に対面でコミュニケーション取りながらチーム構築していくのが好き
+- 適度に対面でコミュニケーション取りながらチーム構築していくのが好き。リモートが基本の現場であってもたまに対面でラフに話す場がほしい
+
