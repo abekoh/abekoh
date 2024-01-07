@@ -16,13 +16,14 @@ SNS等へのリンク: [abekoh.dev](https://abekoh.dev)
   - PdM2名, エンジニア3-5名, QA2-3名, etc (インターン、業務委託含む)
   - 全体の設計・実装方針に責任を持つ
   - 開発フローの整備、スクラムの導入
-  - 開発メンバーとの1on1、課題の吸い上げ・知識共有
+  - 開発メンバーとの1on1、課題の吸い上げ・知識共有、スキルアップ支援
   - ドメインの用語を揃えつつメンバーとすり合わせながら仕様策定
 - 社内のエンジニア知識共有の取り組み
   - LT会の主催。月1回、3-4名が10分程度発表
     - [事業部横断でナレッジ共有！「LTゆる会」開催してみた｜MICIN公式note「MICINの邁進Days」](https://note.micin.jp/n/nb1c5df4aa9a4)
   - Advent Calendarの運営
-    - [MICIN Advent Calendar 2022 を終えて | MICIN Developers](https://medium.com/micin-developers/remember-micin-advent-calendar-2022-acc9557f9089)
+    - 2022年: [MICIN Advent Calendar 2022 を終えて | MICIN Developers](https://medium.com/micin-developers/remember-micin-advent-calendar-2022-acc9557f9089)
+    - 2023年も貢献しました: [MICIN Advent Calendar 2023 - Adventar](https://adventar.org/calendars/9595)
 
 ### 2018/04-2021/10 ヤフー株式会社
 
@@ -30,6 +31,7 @@ SNS等へのリンク: [abekoh.dev](https://abekoh.dev)
   - 広告審査システムの開発・運用・保守
   - Java, Spring Boot, Oracle Database, Kubernetes, GCP, etc...
   - デイリー数百万リクエストされる広告の審査を、分散サービスを構築して処理
+  - Apache Kafka, Apache Pulsarを多く活用したイベント駆動サービスを長らく保守
   - 秒間数万リクエストを数ミリ秒以内に返却するシステムの構築
     - こちらに関連: [ヤフー、Yahoo!広告のさらなる安全性向上に向け、 アドフラウド排除とブランドセーフティ制御を強化する リアルタイム不正解析機能を導入 - ニュース - ヤフー株式会社](https://about.yahoo.co.jp/pr/release/2020/10/15m/)
   - 社内オンプレとGCPとの連携
@@ -54,31 +56,29 @@ SNS等へのリンク: [abekoh.dev](https://abekoh.dev)
 
 ### 記事
 
-Qiita / Zenn / Blog などに時々投稿
+Zenn / Qiita / ブログ などに投稿。
 
-Pickup:
+ピックアップ:
 
-- [Spring Cloud Stream, Reactorを使ってノンブロッキングなストリーム処理を実装する - Zenn](https://zenn.dev/abekoh/articles/4b898e6bc744fa)
+- [開発効率を追い求めた実装プラクティス集 - Zenn](https://zenn.dev/micin/articles/effective-development-practices)
+- [シェル環境2023 - abekoh's tech note](https://blog.abekoh.dev/posts/shell-2023)
+- [moqを使ったGoのテスト - Zenn](https://zenn.dev/abekoh/articles/21acde07e1f555)
 - [ドメイン駆動設計からオブジェクト指向、そしてアジャイル開発まで。関連書籍練り歩きのススメ - Zenn](https://zenn.dev/abekoh/articles/90a9bb8698b091)
-- [ZIP圧縮したファイルの更新日時にタイムゾーンが考慮されない問題について調べてみた - Zenn](https://zenn.dev/abekoh/articles/3222ffca0f9ca5)
+- [Spring Cloud Stream, Reactorを使ってノンブロッキングなストリーム処理を実装する - Zenn](https://zenn.dev/abekoh/articles/4b898e6bc744fa)
 - [Javaでパフォーマンスを意識した開発を行っていく上での心得 - abekoh's tech note](https://blog.abekoh.dev/posts/starting-java-performance-tuning)
 - [Spring Boot+Kubernetesでサービスイン前にウォームアップ処理を行う - abekoh's tech note](https://blog.abekoh.dev/posts/warmup-java-with-spring-and-k8s)
-- [業務アプリケーション開発にGoを採用する理由 - Zenn](https://zenn.dev/micin/articles/c5d12be524c675)
-- [moqを使ったGoのテスト - Zenn](https://zenn.dev/abekoh/articles/21acde07e1f555)
-- [シェル環境2023 - abekoh's tech note](https://blog.abekoh.dev/posts/shell-2023)
 
 ### OSS
 
 自前のもの:
 
 - [abekoh/commit-plantuml-action](https://github.com/abekoh/commit-plantuml-action) ... PlantUMLの画像生成できるGitHub Actionsテンプレート、PR上で差分チェックもできる
-- [abekoh/snipslack.vim](https://github.com/abekoh/snipslack.vim) ... Slackにスニペット投稿するためのVimプラグイン
+- [abekoh/radiko-archiver](https://github.com/abekoh/radiko-archiver) ... radikoの番組自動録画
 - [abekoh/wordle\_helper](https://github.com/abekoh/wordle_helper) ... [Wordle](https://www.nytimes.com/games/wordle/index.html)を解くためのヘルパーCLI、Rust製
 - [abekoh/nes\_emulator](https://github.com/abekoh/nes_emulator) ... (WIP)Rust製ファミコンエミュレータ
 - [abekoh/minecraft-server](https://github.com/abekoh/minecraft-server) ... GCP, TerraformでMinecraftサーバを構築
-- [abekoh/radiko-archiver](https://github.com/abekoh/radiko-archiver) ... radikoの番組自動録画
 
-他、利用しているOSSにIssue投げたりPR投げたりもたまにやります。
+他、利用しているOSSにIssue投げたりPR投げたりします。
 
 ### サービス
 
@@ -93,29 +93,41 @@ Pickup:
 
 ### 技術
 
+やってきたことに加えて、私見も挟んでおく。
+
 - 静的型付け言語中心に組み立てたい
   - Java, Go, TypeScriptが業務経験として長い
   - Kotlin, Rustあたりも興味あり
+  - 長く続くプロジェクトであれば必ずメンバー入れ替え・忘却・大規模リファクタリングが発生する。そのとき静的型付けでないと余計な負担を強いられる。それを防ぐためにも最初から型はきっちり対応してきたい
   - 小規模・分析用・スクリプト等であればその限りでない。ちょっとしたスクリプトはPythonでよく書く
-- Java
-  - Spring Bootを使った実務経験3年
-  - ドメインモデリングを中心にした設計が一番手慣れている
-  - IntelliJ IDEAと組み合わせて、テストも書きながらで素早くアプリケーションを構築するのが得意
 - Go
   - 業務で2年、趣味含めると4年ほど
-  - 最近はかなり慣れて、最新状況のキャッチアップも進んでやるようになった
+  - 最近では一番手慣れている
+  - golang/goのAccepted/Declinedのキャッチアップもやるようになった
+  - 平易な文法だからこそ、平易な書き方で完結させるのが正しい姿という考えで最近はコーディングしている
+- Java
+  - Spring Bootを使った実務経験3年
+  - IntelliJ IDEAと組み合わせて効率よくクラスを構築していくのが得意
+  - Goとは異なり、それぞれのクラスの役割がどうなるべきかをしっかり考えて実装する
+  - Java 11より後はあまりキャッチアップできていない
 - アーキテクチャ・設計観
   - プロダクトのあるべき姿に向かって、モノリスからマイクロサービスまで順応に選んだ設計がしたい
   - テストは可能な範囲で書く、テスタビリティの高い設計にしたい
+  - モデリングは、エンジニアだけではなくステークホルダーをなるだけ集めて全員で同じ方向を向いて行うようにしたい
+- DDD
+  - DDDに関する記事を多く投稿してきているが、最近は難しく考え過ぎずでいいじゃんというスタンス。特に実装に関しては
+  - Java, ないしクラス指向に縛られたプラクティスが多いと見ている。GoやTypeScriptを扱う場合はそれらに惑わされないような書き方にすべき
 - データベース
   - RDBはOracle Database, PostgreSQLの経験が長い
-  - ORMつかわずSQLやそれに近いものを書くスタイルが好き
-  - その他データベース系はRedis, Cassandra, DynamoDB, Firestoreを少々
-- API / RPC
+  - ORMを使わずSQLやそれに近いものを書くスタイルが好き。Goだと[sqlc](https://sqlc.dev/)、Javaだと[MyBatis](https://mybatis.org/mybatis-3/)をよく使っていた
+  - その他NoSQL系はRedis, Cassandra, DynamoDB, Firestoreを少々
+- API
   - REST API, GraphQL経験あり
-  - いずれにしてもスキーマをフロント・バックエンドで共有して効率化したスタイルをやめるのは厳しい
+  - いずれにしてもスキーマ→コード、コード→スキーマと生成する仕組みがほしい
+  - GraphQLをCQRSを組み合わせた開発がコスパよくて好み
 - インフラ
   - AWS, GCP, オンプレの経験あり
+  - GCPが最も好み。Goとの相性・SDKの完成度・多すぎないのプロダクト群など
   - Terraform, AnsibleなどIaCもよく扱う
 - フロント
   - TypeScript, React.js, Next.js, TailwindCSS, ChakraUI, MUIなど経験
