@@ -54,12 +54,11 @@ SNS等へのリンク: [abekoh.dev](https://abekoh.dev)
 
 ## 社外活動
 
-### 記事
-
-Zenn / Qiita / ブログ などに投稿。
+### 記事 / スライド
 
 ピックアップ:
 
+- [『理科系の作文技術』から学ぶ技術文書の書き方 - Speaker Deck](https://speakerdeck.com/abekoh/li-ke-xi-nozuo-wen-ji-shu-karaxue-buji-shu-wen-shu-noshu-kifang)
 - [開発効率を追い求めた実装プラクティス集 - Zenn](https://zenn.dev/micin/articles/effective-development-practices)
 - [シェル環境2023 - abekoh's tech note](https://blog.abekoh.dev/posts/shell-2023)
 - [moqを使ったGoのテスト - Zenn](https://zenn.dev/abekoh/articles/21acde07e1f555)
@@ -131,7 +130,7 @@ Zenn / Qiita / ブログ などに投稿。
   - Terraform, AnsibleなどIaCもよく扱う
 - フロントエンド
   - Reactを中心に一通り書ける
-  - RSCなど最先端なところは追いきれていない、詳しい人にリード任せつつ後追いする形
+  - 最先端なところは追いきれていない、詳しい人にリード任せつつ後追いする形
 
 ### 技術以外
 
