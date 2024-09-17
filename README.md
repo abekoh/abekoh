@@ -1,5 +1,4 @@
 ### Hi, I'm abekoh 👋😝
-[Resume](./RESUME-ja.md) (in Japanese)
 
 #### Works
 - [MICIN, Inc.](https://micin.jp/en) (2021-)
